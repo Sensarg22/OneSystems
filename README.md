@@ -1,5 +1,4 @@
-# OneSystems
-###Integration test infrastructure
+##Integration test infrastructure
 
 Проект инфраструктуры для написания интеграционных тестов к серверу имеющий 2 интерфейса WebApi и WebSocken
 
